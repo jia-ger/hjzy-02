@@ -1,5 +1,7 @@
 https://codeforces.com/contest/2074/problem/E
 
+> 思路分析：利用随机数 将三角形分成三部分随机选取一个点变成这个点，防止超时
+
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
