@@ -1,5 +1,7 @@
 https://ac.nowcoder.com/acm/contest/120564/C
 
+> 分析：实际上最终的排列就是格雷码。格雷码有一个性质是：相邻两个数字在二进制中有且仅有一位不同
+
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
